@@ -1,4 +1,4 @@
-# Comparative-Analysis-of-Deep-Learning-Frameworks-for-AI-generated-Fake-Text-Detection
+# Comparative Analysis of Deep Learning Frameworks for NLP-based AI-Generated Fake Text Detection
 
 This project was created to compare various deep learning frameworks in identifying fake text from real text.
 The main focus is to compare the functionalities provided by these frameworks while keep everything else constant.
